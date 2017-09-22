@@ -41,6 +41,10 @@ article {
   margin-top: 150px
 }
 
-#space {
+.space {
   color: rgb(208, 208, 208);
+}
+
+foot {
+  background-color: rgb(232, 159, 36);
 }
